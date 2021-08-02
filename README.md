@@ -6,7 +6,7 @@ Theme for Micro Editor
 ## Install using Git
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-`$ git clone https://github.com/dracula/micro.git`
+`$ git clone https://github.com/yonhaime/afterglow.git`
 
 ## Install manually
 Download using the [GitHub .zip download](https://github.com/YonHaime/afterglow/archive/90ac7c52cc6a4b3d0d022bf213650d2f7688096b.zip) option and unzip them.
