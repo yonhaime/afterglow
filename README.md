@@ -1,2 +1,2 @@
-# afterglow
+# Afterglow
 Theme for Micro editor
