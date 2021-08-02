@@ -1,7 +1,7 @@
 # Afterglow
 Theme for Micro Editor
 
-![alt text](https://raw.githubusercontent.com/YonHaime/afterglow/main/afterglow.png "Theme Afterglow")
+![alt text](https://raw.githubusercontent.com/YonHaime/afterglow/main/screenshot.png "Theme Afterglow")
 
 ## Install using Git
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
