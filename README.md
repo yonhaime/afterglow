@@ -16,4 +16,4 @@ Download using the [GitHub .zip download](https://github.com/YonHaime/afterglow/
 ## Activating theme
 1. Place `afterglow.micro` into `~/.config/micro/colorschemes` (create the folder if it doesn't exist).
 config.fish).
-2. Start a new instance of Micro, if the theme isn't available, press `Ctrl+E` to bring up the command prompt, type in set `colorscheme afterglow` and execute (press `Enter`).
+2. Start a new instance of Micro, if the theme isn't available, press `Ctrl+E` to bring up the command prompt, type in `set colorscheme afterglow` and execute (press `Enter`).
